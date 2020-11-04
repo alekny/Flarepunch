@@ -326,80 +326,83 @@
 		"xpos"			"999"
 		"visible"		"0"
 	}
+
 	"Player1Badge"
-	{	
+	{
 		"xpos"			"999"
 		"visible"		"0"
 	}
 	"Player1Avatar"
-	{	
-		"xpos"			"999"
-		"visible"		"0"
+	{
+		"xpos"			"c-138"
+		"ypos"			"374"
 	}
 	"Player1Name"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c-115"
+		"ypos"			"371"
 	}
 	"Player1Class"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c2"
+		"ypos"			"371"
 	}
 	"Player1Score"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c60"
+		"ypos"			"371"
 	}
+
 	"Player2Badge"
-	{	
+	{
 		"xpos"			"999"
 		"visible"		"0"
 	}
 	"Player2Avatar"
-	{	
-		"xpos"			"999"
-		"visible"		"0"
+	{
+		"xpos"			"c-138" 
+		"ypos"			"394" 
 	}
 	"Player2Name"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c-115" //+200
+		"ypos"			"391" //+150
 	}
 	"Player2Class"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c2"
+		"ypos"			"391"
 	}
 	"Player2Score"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c60"
+		"ypos"			"391"
 	}
+
 	"Player3Badge"
-	{	
+	{
 		"xpos"			"999"
 		"visible"		"0"
 	}
 	"Player3Avatar"
-	{	
-		"xpos"			"999"
-		"visible"		"0"
+	{
+		"xpos"			"c-138" 
+		"ypos"			"414" 
 	}
 	"Player3Name"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c-115" //+200
+		"ypos"			"411" //+150
 	}
 	"Player3Class"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c2"
+		"ypos"			"411"
 	}
 	"Player3Score"
 	{	
-		"xpos"			"999"
-		"visible"		"0"
+		"xpos"			"c60"
+		"ypos"			"411"
 	}
 
 	// KillStreak

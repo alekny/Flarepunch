@@ -13,7 +13,7 @@
 		"tall"			"50"
 		
 		// Alignment of the Text. Center, North, East, South, West, North-East, North-West, South-East, South-West
-		"textAlignment"	"center"
+		"textAlignment"	"east"
 		
 		// Text Color. Will also be controlled in scripts/healthanimations.txt
 		"fgcolor"		"HealthColor"
@@ -47,7 +47,7 @@
 		"tall"			"50"
 		
 		// Alignment of the Text. Center, North, East, South, West, North-East, North-West, South-East, South-West
-		"textAlignment"	"center"	
+		"textAlignment"	"east"	
 		
 		// Text Color. Will also be controlled in scripts/healthanimations.txt
 		"fgcolor"		"HealthShadow"
@@ -87,7 +87,7 @@
 		"tall"			"50"
 		
 		// Alignment of the Text. Center, North, East, South, West, North-East, North-West, South-East, South-West
-		"textAlignment"	"center"	
+		"textAlignment"	"east"	
 		
 		// Text Color. Will also be controlled in scripts/healthanimations.txt
 		"fgcolor"		"HealthShadow"

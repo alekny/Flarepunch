@@ -1,3 +1,20 @@
+//Fix chat position
+event CompetitiveGame_LowerChatWindow
+{
+	Animate HudChat ypos r200 Accel 0 0
+}
+
+event CompetitiveGame_RestoreChatWindow
+{
+	Animate HudChat ypos r200 Accel 0 0
+}
+
+event HudTournament_MoveChatWindow
+{
+	RunEvent CompetitiveGame_LowerChatWindow 0
+	RunEvent CompetitiveGame_RestoreChatWindow 10
+}
+
 event HudTournamentSetupPanelOpen
 {
 	Animate HudTournamentSetup	Position	"0 0"	Linear 0.0 0.001

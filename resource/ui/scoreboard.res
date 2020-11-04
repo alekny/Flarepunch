@@ -256,8 +256,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"16"
-		"linegap"		"2"
+		"linespacing"	"12"
+		"linegap"		"1"
 		"fgcolor"		"blue"
 		//"show_columns"	"1"
 		
@@ -463,8 +463,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"16"
-		"linegap"		"2"
+		"linespacing"	"12"
+		"linegap"		"1"
 		"fgcolor"		"red"
 		//"show_columns"	"1"
 

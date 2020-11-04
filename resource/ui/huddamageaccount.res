@@ -9,8 +9,8 @@
 		"PositiveColor"			"56 142 60 255"
 		"NegativeColor"			"255 235 59 255"
 		"delta_lifetime"		"3"
-		"delta_item_font"		"Size 16"
-		"delta_item_font_big"	"Size 16"
+		"delta_item_font"		"Size 22"
+		"delta_item_font_big"	"Size 22"
 	}
 	
 	"DamageValue"

@@ -32,8 +32,8 @@
 		"font"			"Size 42"
 		
 		// Horizontal Position
-		"xpos"			"c47"
-		"xpos_minmode"	"c47"
+		"xpos"			"c60"
+		"xpos_minmode"	"c60"
 		
 		// Vertical Position
 		"ypos"			"c87"
@@ -48,8 +48,8 @@
 		"font_minmode"	"Size 20"
 		
 		// Horizontal Position
-		"xpos"			"7"
-		"xpos_minmode"	"7"
+		"xpos"			"-35"
+		"xpos_minmode"	"-35"
 		
 		// Vertical Position
 		"ypos"			"0"
@@ -65,7 +65,7 @@
 		"font"			"Size 42"
 		
 		// Horizontal Position
-		"xpos"			"c80"
+		"xpos"			"c60"
 		
 		// Vertical Position
 		"ypos"	"c87"

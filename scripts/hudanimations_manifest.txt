@@ -22,10 +22,10 @@ hudanimations_manifest
 	// Uncomment one or the other. Do NOT leave both uncommented.
 	
 	// Default
-	"file"		"scripts/animations/uberanimations.txt"
+	//"file"		"scripts/animations/uberanimations.txt"
 	
 	// Rainbow
-	//"file"		"scripts/animations/uberanimations_rainbow.txt"
+	"file"		"scripts/animations/uberanimations_rainbow.txt"
 	
 	// ----------------------------------------------------------------------
 	

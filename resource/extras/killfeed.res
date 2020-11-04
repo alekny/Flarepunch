@@ -3,7 +3,7 @@
 	// Killfeed
 	HudDeathNotice
 	{
-		"TextFont"				"Size 13"
+		"TextFont"				"Size 11"
 		"TextFont_minmode"		"BlankFont"
 	
 		"xpos"	 "r634"	[$WIN32]

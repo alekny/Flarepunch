@@ -274,7 +274,7 @@ Scheme
 			"1"
 			{
 				"name"			"Product Sans"
-				"tall"			"14"
+				"tall"			"18"
 				"yres"			"480 599"
 				"dropshadow"	"0"
 				"antialias"		"1"
@@ -283,7 +283,7 @@ Scheme
 			"2"
 			{
 				"name"			"Product Sans"
-				"tall"			"16"
+				"tall"			"20"
 				"yres"			"600 767"
 				"dropshadow"	"0"
 				"antialias"		"1"
@@ -292,7 +292,7 @@ Scheme
 			"3"
 			{
 				"name"			"Product Sans"
-				"tall"			"18"
+				"tall"			"22"
 				"yres"			"768 1023"
 				"dropshadow"	"0"
 				"antialias"		"1"
@@ -301,7 +301,7 @@ Scheme
 			"4"
 			{
 				"name"			"Product Sans"
-				"tall"			"18"
+				"tall"			"22"
 				"yres"			"1024 1199"
 				"dropshadow"	"0"
 				"antialias"		"1"
@@ -310,7 +310,7 @@ Scheme
 			"5"
 			{
 				"name"			"Product Sans"
-				"tall"			"22"
+				"tall"			"26"
 				"yres"			"1200 10000"
 				"dropshadow"	"0"
 				"antialias"		"1"

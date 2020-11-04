@@ -1,3 +1,6 @@
+// Knuckles' Crosshairs
+#base "../resource/crosshairs/knuckles/crosshair.res"
+
 // Killfeed
 #base "../resource/extras/killfeed.res"
 
@@ -100,8 +103,8 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-85"
-		"xpos_minmode"			"c-85"
+		"xpos"					"c-155"
+		"xpos_minmode"			"c-155"
 		"ypos"					"c92"
 		"ypos_minmode"			"c92"
 		"wide"					"40"

@@ -1,3 +1,16 @@
+Flarepunch (alekny mod)
+====
+A modded version of [omnibombulator's Flarepunch HUD](https://github.com/omnibombulator/Flarepunch). Changes include:
+* More centered Health and Ammo Numbers
+* Slightly bigger damage numbers
+* Preconfigured KnucklesCrosses crosshair
+* Reenabled top 3 players in the winpanel
+* Scoreboard now shows up to 24 Players (18 previously)
+* Smaller killfeed text size
+* Fixed chat window moving to different locations in casual
+* Made net_graph fonts bigger
+
+
 Flarepunch
 ====
 **A Team Fortress 2 Heads Up Display. Created by omnibombulator**

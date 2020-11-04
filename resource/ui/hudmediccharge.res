@@ -14,8 +14,8 @@
 		"font"			"Size 42"
 	
 		// Horizontal Position
-		"xpos"			"c78"
-		"xpos_minmode"	"c78"
+		"xpos"			"c58"
+		"xpos_minmode"	"c58"
 		
 		// Vertical Position
 		"ypos"			"c87"
@@ -29,7 +29,7 @@
 		
 		"zpos"			"2"
 		
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		
 		"labelText"		"#TF_UberchargeMinHUD"
 	}
@@ -40,8 +40,8 @@
 		"font"			"Size 42"
 	
 		// Horizontal Position
-		"xpos"			"c78"
-		"xpos_minmode"	"c78"
+		"xpos"			"c58"
+		"xpos_minmode"	"c58"
 		
 		// Vertical Position
 		"ypos"			"c87"
@@ -55,7 +55,7 @@
 		
 		"zpos"			"2"
 		
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		
 		
 		"labelText"		"#TF_IndividualUberchargesMinHUD"

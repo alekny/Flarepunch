@@ -29,8 +29,8 @@
 		"font"			"Size 42"
 		
 		// Horizontal Position
-		"xpos"			"c-160"
-		"xpos_minmode"	"c-160"
+		"xpos"			"c-140"
+		"xpos_minmode"	"c-140"
 		
 		// Vertical Position
 		"ypos"			"c87"	[$WIN32]

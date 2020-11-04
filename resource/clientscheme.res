@@ -55,7 +55,7 @@
 //////////////////////////////////////////////////
 
 
-
+#base "crosshairs/knuckles/crosshairscheme.res"
 
 
 

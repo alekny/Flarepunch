@@ -14,7 +14,7 @@
 		"tall_lodef"	"50"		
 		
 		// Alignment of the Text. Center, North, East, South, West, North-East, North-West, South-East, South-West
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		
 		// Text Color. Will also be controlled in scripts/healthanimations.txt
 		"fgcolor"		"AmmoInClipColor"
@@ -39,7 +39,7 @@
 		"tall_lodef"	"50"
 		
 		// Alignment of the Text. Center, North, East, South, West, North-East, North-West, South-East, South-West
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		
 		// Text Color. Will also be controlled in scripts/healthanimations.txt
 		"fgcolor"		"AmmoInClipShadow"
@@ -66,7 +66,7 @@
 		// This element is pinned to AmmoInClip
 		"pin_to_sibling" "AmmoInClip"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner" "PIN_BOTTOMRIGHT" // Corner of Element you are pinning to
+		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}	
 	
 	"AmmoInReserveShadow"
@@ -108,7 +108,7 @@
 		"tall_lodef"	"50"		
 		
 		// Alignment of the Text. Center, North, East, South, West, North-East, North-West, South-East, South-West
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		
 		// Text Color. Will also be controlled in scripts/healthanimations.txt
 		"fgcolor"		"AmmoNoClipColor"
@@ -134,7 +134,7 @@
 		"tall_lodef"	"50"
 		
 		// Alignment of the Text. Center, North, East, South, West, North-East, North-West, South-East, South-West
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		
 		// Text Color. Will also be controlled in scripts/healthanimations.txt
 		"fgcolor"		"AmmoNoClipColor"		
