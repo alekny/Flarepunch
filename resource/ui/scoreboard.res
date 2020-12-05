@@ -64,7 +64,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BluePanel"
 		"xpos"			"c-300"
-		"ypos"			"c-102"
+		"ypos"			"c-131"
 		"ypos_minmode"	"c-22"
 		"zpos"			"2"
 		"wide"			"300"	
@@ -96,6 +96,8 @@
 		if_mvm
  		{
 			"xpos"			"c-260"
+			"ypos"			"c-102"
+			"ypos_minmode"	"c-22"
  			"visible"		"0"
  		}
 	}
@@ -250,7 +252,7 @@
 		"ypos"			"-3"
 		"zpos"			"20"
 		"wide"			"300"
-		"tall"			"170"
+		"tall"			"224"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -457,7 +459,7 @@
 		"ypos"			"-3"
 		"zpos"			"20"
 		"wide"			"300"
-		"tall"			"170"
+		"tall"			"224"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -488,7 +490,7 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"	
-		"tall"			"184"
+		"tall"			"238"
 		"tall_minmode"	"20"
 		"visible"		"1"
 		"enabled"		"1"
@@ -497,6 +499,7 @@
 		if_mvm
  		{
  			"wide"			"520"
+			"tall"			"184"
 			"visible"		"1"
  		}
 		
@@ -508,7 +511,7 @@
 			"ypos"			"-5"
 			"zpos"			"0"
 			"wide"			"305"
-			"tall"			"189"
+			"tall"			"243"
 			"tall_minmode"	"24"
 			"visible"		"1"
 			"enabled"		"1"
@@ -523,6 +526,8 @@
 			if_mvm
 			{
 				"wide"			"520"
+				"tall"			"189"
+				"tall_minmode"	"24"
 			}
 		}
 		
@@ -539,7 +544,7 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"	
-		"tall"			"184"		
+		"tall"			"238"		
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 0"
@@ -552,7 +557,7 @@
 			"ypos"			"-5"
 			"zpos"			"0"
 			"wide"			"305"
-			"tall"			"189"
+			"tall"			"243"
 			"tall_minmode"	"24"
 			"visible"		"1"
 			"enabled"		"1"

@@ -137,7 +137,7 @@
 		"textAlignment"	"west"
 		
 		// Text Color. Will also be controlled in scripts/healthanimations.txt
-		"fgcolor"		"AmmoNoClipColor"		
+		"fgcolor"		"AmmoNoClipShadow"		
 	}	
 	
 	
