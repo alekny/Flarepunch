@@ -64,7 +64,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BluePanel"
 		"xpos"			"c-300"
-		"ypos"			"c-131"
+		"ypos"			"c-102"
 		"ypos_minmode"	"c-22"
 		"zpos"			"2"
 		"wide"			"300"	
@@ -96,8 +96,6 @@
 		if_mvm
  		{
 			"xpos"			"c-260"
-			"ypos"			"c-102"
-			"ypos_minmode"	"c-22"
  			"visible"		"0"
  		}
 	}
@@ -252,14 +250,14 @@
 		"ypos"			"-3"
 		"zpos"			"20"
 		"wide"			"300"
-		"tall"			"224"
+		"tall"			"170"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"16"
-		"linegap"		"2"
+		"linespacing"	"12"
+		"linegap"		"1"
 		"fgcolor"		"blue"
 		//"show_columns"	"1"
 		
@@ -459,14 +457,14 @@
 		"ypos"			"-3"
 		"zpos"			"20"
 		"wide"			"300"
-		"tall"			"224"
+		"tall"			"170"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"16"
-		"linegap"		"2"
+		"linespacing"	"12"
+		"linegap"		"1"
 		"fgcolor"		"red"
 		//"show_columns"	"1"
 
@@ -490,7 +488,7 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"	
-		"tall"			"238"
+		"tall"			"184"
 		"tall_minmode"	"20"
 		"visible"		"1"
 		"enabled"		"1"
@@ -499,7 +497,6 @@
 		if_mvm
  		{
  			"wide"			"520"
-			"tall"			"184"
 			"visible"		"1"
  		}
 		
@@ -511,7 +508,7 @@
 			"ypos"			"-5"
 			"zpos"			"0"
 			"wide"			"305"
-			"tall"			"243"
+			"tall"			"189"
 			"tall_minmode"	"24"
 			"visible"		"1"
 			"enabled"		"1"
@@ -526,8 +523,6 @@
 			if_mvm
 			{
 				"wide"			"520"
-				"tall"			"189"
-				"tall_minmode"	"24"
 			}
 		}
 		
@@ -544,7 +539,7 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"	
-		"tall"			"238"		
+		"tall"			"184"		
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 0"
@@ -557,7 +552,7 @@
 			"ypos"			"-5"
 			"zpos"			"0"
 			"wide"			"305"
-			"tall"			"243"
+			"tall"			"189"
 			"tall_minmode"	"24"
 			"visible"		"1"
 			"enabled"		"1"

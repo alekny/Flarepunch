@@ -3,6 +3,7 @@ Flarepunch (alekny mod)
 A modded version of [omnibombulator's Flarepunch HUD](https://github.com/omnibombulator/Flarepunch). Changes include:
 * More centered Health and Ammo Numbers
 * Slightly bigger damage numbers
+* More compact HUD
 * Preconfigured KnucklesCrosses crosshair
 * Reenabled top 3 players in the winpanel
 * Smaller killfeed text size
